@@ -20,6 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MultiCountingApp"
-include(":app")
-include(":watercounting")
+include(":stretching")
+include(":drinking")
 include(":common")

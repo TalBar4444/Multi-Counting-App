@@ -48,6 +48,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="-"
+                android:foreground="?android:attr/selectableItemBackground"
                 android:src="@drawable/ic_minus"
                 android:backgroundTint="#00000000"/>
 
@@ -103,7 +104,8 @@
                 android:layout_weight="1"
                 android:text="+"
                 android:src="@drawable/ic_plus"
-                android:backgroundTint="#00000000"/>
+                android:backgroundTint="#00000000"
+                android:foreground="?android:attr/selectableItemBackground"/>
 
         </androidx.appcompat.widget.LinearLayoutCompat>
 
