@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stretches\ndaily trucker</string>
+    <string name="max_amount">/5</string>
+    <string name="type">stretches</string>
+    <string name="motivate">Keep stretching. Stay strong !</string>
+</resources>

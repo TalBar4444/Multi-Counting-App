@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Water\ndaily trucker</string>
+    <string name="max_amount">/8</string>
+    <string name="type">glasses</string>
+    <string name="motivate">Keep Drinking. Stay hydrated !</string>
+
+</resources>

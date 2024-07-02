@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">app-name</string>
+    <string name="max_amount">/max_amount</string>
+    <string name="type">type</string>
+    <string name="motivate">motivate</string>
+</resources>
