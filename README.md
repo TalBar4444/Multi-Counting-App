@@ -6,23 +6,22 @@ This project encompasses two distinct applications, each focused on a specific h
 
 ### Water Daily Tracker
 Monitor and encourage daily water consumption.
-
-<p align="center">
+<p align="start">
   <img src="screenshots/watering.png" alt="watering tracker" width="270"
 </p>
 
-<p align="center">
+<p align="start">
   <img src="screenshots/welldone.png" alt="watering dialog" width="270"
 </p>
 
+
 ### Stretches Daily Tracker
 Track the amount of daily stretches.
-
-<p align="center">
+<p align="start">
   <img src="screenshots/stretches.png" alt="stretches tracker" width="270"
 </p>
 
-### Setup
+## Setup
 
 1. Clone the repository:
    ```bash
@@ -32,7 +31,7 @@ Track the amount of daily stretches.
 2. Open the project in Android Studio.
 3. Build and run the desired module (water-tracker or stretches-tracker).
 
-### 📄 License
+## 📄 License
 MIT License
 
 Copyright (c) 2025 Tal Bar.
@@ -55,6 +54,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-### Credits
+## Credits
 Icon made by Flat Icons (www.flat-icons.com) from www.flaticon.com
 
